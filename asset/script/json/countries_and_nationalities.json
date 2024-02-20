@@ -1,0 +1,770 @@
+[
+    {
+        "country": "Afghanistan",
+        "nationality": "Afghane"
+    },
+    {
+        "country": "Albania",
+        "nationality": "Albanaise"
+    },
+    {
+        "country": "Algeria",
+        "nationality": "Algérienne"
+    },
+    {
+        "country": "Argentina",
+        "nationality": "Argentine"
+    },
+    {
+        "country": "Armenia",
+        "nationality": "Arménienne"
+    },
+    {
+        "country": "Australia",
+        "nationality": "Australienne"
+    },
+    {
+        "country": "Austria",
+        "nationality": "Autrichienne"
+    },
+    {
+        "country": "Azerbaijan",
+        "nationality": "Azerbaïdjanaise"
+    },
+    {
+        "country": "Bahamas",
+        "nationality": "Bahamienne"
+    },
+    {
+        "country": "Bahrain",
+        "nationality": "Bahreïnienne"
+    },
+    {
+        "country": "Bangladesh",
+        "nationality": "Bangladaise"
+    },
+    {
+        "country": "Barbados",
+        "nationality": "Barbadienne"
+    },
+    {
+        "country": "Belarus",
+        "nationality": "Biélorusse"
+    },
+    {
+        "country": "Belgium",
+        "nationality": "Belge"
+    },
+    {
+        "country": "Belize",
+        "nationality": "Bélizienne"
+    },
+    {
+        "country": "Benin",
+        "nationality": "Béninoise"
+    },
+    {
+        "country": "Bhutan",
+        "nationality": "Bhoutanaise"
+    },
+    {
+        "country": "Bolivia",
+        "nationality": "Bolivienne"
+    },
+    {
+        "country": "Bosnia and Herzegovina",
+        "nationality": "Bosnienne"
+    },
+    {
+        "country": "Botswana",
+        "nationality": "Botswanaise"
+    },
+    {
+        "country": "Brazil",
+        "nationality": "Brésilienne"
+    },
+    {
+        "country": "Brunei",
+        "nationality": "Brunéienne"
+    },
+    {
+        "country": "Bulgaria",
+        "nationality": "Bulgare"
+    },
+    {
+        "country": "Burkina Faso",
+        "nationality": "Burkinabè"
+    },
+    {
+        "country": "Burundi",
+        "nationality": "Burundaise"
+    },
+    {
+        "country": "Cambodia",
+        "nationality": "Cambodgienne"
+    },
+    {
+        "country": "Cameroon",
+        "nationality": "Camerounaise"
+    },
+    {
+        "country": "Canada",
+        "nationality": "Canadienne"
+    },
+    {
+        "country": "Cape Verde",
+        "nationality": "Cap-verdienne"
+    },
+    {
+        "country": "Central African Republic",
+        "nationality": "Centrafricaine"
+    },
+    {
+        "country": "Chad",
+        "nationality": "Tchadienne"
+    },
+    {
+        "country": "Chile",
+        "nationality": "Chilienne"
+    },
+    {
+        "country": "China",
+        "nationality": "Chinoise"
+    },
+    {
+        "country": "Colombia",
+        "nationality": "Colombienne"
+    },
+    {
+        "country": "Comoros",
+        "nationality": "Comorienne"
+    },
+    {
+        "country": "Congo (Brazzaville)",
+        "nationality": "Congolaise"
+    },
+    {
+        "country": "Congo (Kinshasa)",
+        "nationality": "Congolaise"
+    },
+    {
+        "country": "Costa Rica",
+        "nationality": "Costaricaine"
+    },
+    {
+        "country": "Croatia",
+        "nationality": "Croate"
+    },
+    {
+        "country": "Cuba",
+        "nationality": "Cubaine"
+    },
+    {
+        "country": "Cyprus",
+        "nationality": "Chypriote"
+    },
+    {
+        "country": "Czech Republic",
+        "nationality": "Tchèque"
+    },
+    {
+        "country": "Denmark",
+        "nationality": "Danoise"
+    },
+    {
+        "country": "Djibouti",
+        "nationality": "Djiboutienne"
+    },
+    {
+        "country": "Dominica",
+        "nationality": "Dominiquaise"
+    },
+    {
+        "country": "Dominican Republic",
+        "nationality": "Dominicaine"
+    },
+    {
+        "country": "Ecuador",
+        "nationality": "Équatorienne"
+    },
+    {
+        "country": "Egypt",
+        "nationality": "Égyptienne"
+    },
+    {
+        "country": "El Salvador",
+        "nationality": "Salvadorienne"
+    },
+    {
+        "country": "Equatorial Guinea",
+        "nationality": "Équato-guinéenne"
+    },
+    {
+        "country": "Eritrea",
+        "nationality": "Érythréenne"
+    },
+    {
+        "country": "Estonia",
+        "nationality": "Estonienne"
+    },
+    {
+        "country": "Eswatini",
+        "nationality": "Swazie"
+    },
+    {
+        "country": "Ethiopia",
+        "nationality": "Éthiopienne"
+    },
+    {
+        "country": "Fiji",
+        "nationality": "Fidjienne"
+    },
+    {
+        "country": "Finland",
+        "nationality": "Finlandaise"
+    },
+    {
+        "country": "France",
+        "nationality": "Française"
+    },
+    {
+        "country": "Gabon",
+        "nationality": "Gabonaise"
+    },
+    {
+        "country": "Gambia",
+        "nationality": "Gambienne"
+    },
+    {
+        "country": "Georgia",
+        "nationality": "Géorgienne"
+    },
+    {
+        "country": "Germany",
+        "nationality": "Allemande"
+    },
+    {
+        "country": "Ghana",
+        "nationality": "Ghanéenne"
+    },
+    {
+        "country": "Greece",
+        "nationality": "Grecque"
+    },
+    {
+        "country": "Grenada",
+        "nationality": "Grenadienne"
+    },
+    {
+        "country": "Guatemala",
+        "nationality": "Guatémaltèque"
+    },
+    {
+        "country": "Guinea",
+        "nationality": "Guinéenne"
+    },
+    {
+        "country": "Guinea-Bissau",
+        "nationality": "Bissau-Guinéenne"
+    },
+    {
+        "country": "Guyana",
+        "nationality": "Guyanienne"
+    },
+    {
+        "country": "Haiti",
+        "nationality": "Haïtienne"
+    },
+    {
+        "country": "Honduras",
+        "nationality": "Hondurienne"
+    },
+    {
+        "country": "Hungary",
+        "nationality": "Hongroise"
+    },
+    {
+        "country": "Iceland",
+        "nationality": "Islandaise"
+    },
+    {
+        "country": "India",
+        "nationality": "Indienne"
+    },
+    {
+        "country": "Indonesia",
+        "nationality": "Indonésienne"
+    },
+    {
+        "country": "Iran",
+        "nationality": "Iranienne"
+    },
+    {
+        "country": "Iraq",
+        "nationality": "Irakienne"
+    },
+    {
+        "country": "Ireland",
+        "nationality": "Irlandaise"
+    },
+    {
+        "country": "Israel",
+        "nationality": "Israélienne"
+    },
+    {
+        "country": "Italy",
+        "nationality": "Italienne"
+    },
+    {
+        "country": "Jamaica",
+        "nationality": "Jamaïcaine"
+    },
+    {
+        "country": "Japan",
+        "nationality": "Japonaise"
+    },
+    {
+        "country": "Jordan",
+        "nationality": "Jordanienne"
+    },
+    {
+        "country": "Kazakhstan",
+        "nationality": "Kazakhe"
+    },
+    {
+        "country": "Kenya",
+        "nationality": "Kényane"
+    },
+    {
+        "country": "Kiribati",
+        "nationality": "Kiribatienne"
+    },
+    {
+        "country": "Kuwait",
+        "nationality": "Koweïtienne"
+    },
+    {
+        "country": "Kyrgyzstan",
+        "nationality": "Kirghize"
+    },
+    {
+        "country": "Laos",
+        "nationality": "Laotienne"
+    },
+    {
+        "country": "Latvia",
+        "nationality": "Lettone"
+    },
+    {
+        "country": "Lebanon",
+        "nationality": "Libanaise"
+    },
+    {
+        "country": "Lesotho",
+        "nationality": "Lesothane"
+    },
+    {
+        "country": "Liberia",
+        "nationality": "Libérienne"
+    },
+    {
+        "country": "Libya",
+        "nationality": "Libyenne"
+    },
+    {
+        "country": "Liechtenstein",
+        "nationality": "Liechtensteinoise"
+    },
+    {
+        "country": "Lithuania",
+        "nationality": "Lituanienne"
+    },
+    {
+        "country": "Luxembourg",
+        "nationality": "Luxembourgeoise"
+    },
+    {
+        "country": "Madagascar",
+        "nationality": "Malgache"
+    },
+    {
+        "country": "Malawi",
+        "nationality": "Malawienne"
+    },
+    {
+        "country": "Malaysia",
+        "nationality": "Malaisienne"
+    },
+    {
+        "country": "Maldives",
+        "nationality": "Maldivienne"
+    },
+    {
+        "country": "Mali",
+        "nationality": "Malienne"
+    },
+    {
+        "country": "Malta",
+        "nationality": "Maltaise"
+    },
+    {
+        "country": "Marshall Islands",
+        "nationality": "Marshallaise"
+    },
+    {
+        "country": "Mauritania",
+        "nationality": "Mauritanienne"
+    },
+    {
+        "country": "Mauritius",
+        "nationality": "Mauricienne"
+    },
+    {
+        "country": "Mexico",
+        "nationality": "Mexicaine"
+    },
+    {
+        "country": "Micronesia",
+        "nationality": "Micronésienne"
+    },
+    {
+        "country": "Moldova",
+        "nationality": "Moldave"
+    },
+    {
+        "country": "Monaco",
+        "nationality": "Monegasque"
+    },
+    {
+        "country": "Mongolia",
+        "nationality": "Mongole"
+    },
+    {
+        "country": "Montenegro",
+        "nationality": "Monténégrine"
+    },
+    {
+        "country": "Morocco",
+        "nationality": "Marocaine"
+    },
+    {
+        "country": "Mozambique",
+        "nationality": "Mozambicaine"
+    },
+    {
+        "country": "Myanmar",
+        "nationality": "Myanmaraise"
+    },
+    {
+        "country": "Namibia",
+        "nationality": "Namibienne"
+    },
+    {
+        "country": "Nauru",
+        "nationality": "Nauruane"
+    },
+    {
+        "country": "Nepal",
+        "nationality": "Népalaise"
+    },
+    {
+        "country": "Netherlands",
+        "nationality": "Néerlandaise"
+    },
+    {
+        "country": "New Zealand",
+        "nationality": "Néo-Zélandaise"
+    },
+    {
+        "country": "Nicaragua",
+        "nationality": "Nicaraguayenne"
+    },
+    {
+        "country": "Niger",
+        "nationality": "Nigérienne"
+    },
+    {
+        "country": "Nigeria",
+        "nationality": "Nigériane"
+    },
+    {
+        "country": "North Korea",
+        "nationality": "Nord-coréenne"
+    },
+    {
+        "country": "North Macedonia",
+        "nationality": "Macédonienne"
+    },
+    {
+        "country": "Norway",
+        "nationality": "Norvégienne"
+    },
+    {
+        "country": "Oman",
+        "nationality": "Omanaise"
+    },
+    {
+        "country": "Pakistan",
+        "nationality": "Pakistanaise"
+    },
+    {
+        "country": "Palau",
+        "nationality": "Paluane"
+    },
+    {
+        "country": "Palestine",
+        "nationality": "Palestinienne"
+    },
+    {
+        "country": "Panama",
+        "nationality": "Panaméenne"
+    },
+    {
+        "country": "Papua New Guinea",
+        "nationality": "Papouasienne"
+    },
+    {
+        "country": "Paraguay",
+        "nationality": "Paraguayenne"
+    },
+    {
+        "country": "Peru",
+        "nationality": "Péruvienne"
+    },
+    {
+        "country": "Philippines",
+        "nationality": "Philippine"
+    },
+    {
+        "country": "Poland",
+        "nationality": "Polonaise"
+    },
+    {
+        "country": "Portugal",
+        "nationality": "Portugaise"
+    },
+    {
+        "country": "Qatar",
+        "nationality": "Qatarienne"
+    },
+    {
+        "country": "Romania",
+        "nationality": "Roumaine"
+    },
+    {
+        "country": "Russia",
+        "nationality": "Russe"
+    },
+    {
+        "country": "Rwanda",
+        "nationality": "Rwandaise"
+    },
+    {
+        "country": "Saint Kitts and Nevis",
+        "nationality": "Kittitienne et Névicienne"
+    },
+    {
+        "country": "Saint Lucia",
+        "nationality": "Saint-Lucienne"
+    },
+    {
+        "country": "Saint Vincent and the Grenadines",
+        "nationality": "Vincentaise"
+    },
+    {
+        "country": "Samoa",
+        "nationality": "Samoane"
+    },
+    {
+        "country": "San Marino",
+        "nationality": "Saint-Marinaise"
+    },
+    {
+        "country": "Sao Tome and Principe",
+        "nationality": "Santoméenne"
+    },
+    {
+        "country": "Saudi Arabia",
+        "nationality": "Saoudienne"
+    },
+    {
+        "country": "Senegal",
+        "nationality": "Sénégalaise"
+    },
+    {
+        "country": "Serbia",
+        "nationality": "Serbe"
+    },
+    {
+        "country": "Seychelles",
+        "nationality": "Seychelloise"
+    },
+    {
+        "country": "Sierra Leone",
+        "nationality": "Sierra-Léonaise"
+    },
+    {
+        "country": "Singapore",
+        "nationality": "Singapourienne"
+    },
+    {
+        "country": "Slovakia",
+        "nationality": "Slovaque"
+    },
+    {
+        "country": "Slovenia",
+        "nationality": "Slovène"
+    },
+    {
+        "country": "Solomon Islands",
+        "nationality": "Salomonaise"
+    },
+    {
+        "country": "Somalia",
+        "nationality": "Somalienne"
+    },
+    {
+        "country": "South Africa",
+        "nationality": "Sud-Africaine"
+    },
+    {
+        "country": "South Korea",
+        "nationality": "Sud-Coréenne"
+    },
+    {
+        "country": "South Sudan",
+        "nationality": "Sud-Soudanaise"
+    },
+    {
+        "country": "Spain",
+        "nationality": "Espagnole"
+    },
+    {
+        "country": "Sri Lanka",
+        "nationality": "Sri-Lankaise"
+    },
+    {
+        "country": "Sudan",
+        "nationality": "Soudanaise"
+    },
+    {
+        "country": "Suriname",
+        "nationality": "Surinamaise"
+    },
+    {
+        "country": "Sweden",
+        "nationality": "Suédoise"
+    },
+    {
+        "country": "Switzerland",
+        "nationality": "Suisse"
+    },
+    {
+        "country": "Syria",
+        "nationality": "Syrienne"
+    },
+    {
+        "country": "Taiwan",
+        "nationality": "Taïwanaise"
+    },
+    {
+        "country": "Tajikistan",
+        "nationality": "Tadjike"
+    },
+    {
+        "country": "Tanzania",
+        "nationality": "Tanzanienne"
+    },
+    {
+        "country": "Thailand",
+        "nationality": "Thaïlandaise"
+    },
+    {
+        "country": "Timor-Leste",
+        "nationality": "Timoraise"
+    },
+    {
+        "country": "Togo",
+        "nationality": "Togolaise"
+    },
+    {
+        "country": "Tonga",
+        "nationality": "Tongienne"
+    },
+    {
+        "country": "Trinidad and Tobago",
+        "nationality": "Trinidadienne"
+    },
+    {
+        "country": "Tunisia",
+        "nationality": "Tunisienne"
+    },
+    {
+        "country": "Turkey",
+        "nationality": "Turque"
+    },
+    {
+        "country": "Turkmenistan",
+        "nationality": "Turkmène"
+    },
+    {
+        "country": "Tuvalu",
+        "nationality": "Tuvaluane"
+    },
+    {
+        "country": "Uganda",
+        "nationality": "Ougandaise"
+    },
+    {
+        "country": "Ukraine",
+        "nationality": "Ukrainienne"
+    },
+    {
+        "country": "United Arab Emirates",
+        "nationality": "Émiratie"
+    },
+    {
+        "country": "United Kingdom",
+        "nationality": "Britannique"
+    },
+    {
+        "country": "United States",
+        "nationality": "Américaine"
+    },
+    {
+        "country": "Uruguay",
+        "nationality": "Uruguayenne"
+    },
+    {
+        "country": "Uzbekistan",
+        "nationality": "Ouzbèke"
+    },
+    {
+        "country": "Vanuatu",
+        "nationality": "Vanuatuane"
+    },
+    {
+        "country": "Vatican City",
+        "nationality": "Vaticane"
+    },
+    {
+        "country": "Venezuela",
+        "nationality": "Vénézuélienne"
+    },
+    {
+        "country": "Vietnam",
+        "nationality": "Vietnamienne"
+    },
+    {
+        "country": "Yemen",
+        "nationality": "Yéménite"
+    },
+    {
+        "country": "Zambia",
+        "nationality": "Zambienne"
+    },
+    {
+        "country": "Zimbabwe",
+        "nationality": "Zimbabwéenne"
+    }
+]

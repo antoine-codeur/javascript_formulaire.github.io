@@ -1,0 +1,81 @@
+@import url('root.css');
+@import url('toggle.css');
+
+
+body {
+    font-family: var(--body-font-family);
+    background-color: var(--background-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 40px 0;
+}
+
+.container { 
+    max-width: 90%;
+    margin: auto; 
+    padding: 20px; 
+    background: var(--background-color);
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px var(--shadow-color);
+}
+
+.form-row {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+
+input, 
+select { 
+    padding: 1vw;
+    border: 1px solid var(--secondary-color);
+    border-radius: 4px;
+
+}
+
+input,
+label {
+    width: 38vw;
+}
+
+select {
+    width: calc(38vw + 2vw + 2px);
+}
+
+button { 
+    width: auto;
+    padding: 12px 20px;
+    margin-top: 20px;
+    background-color: var(--button-background);
+    color: var(--button-text-color);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: var(--button-hover-background);
+    color: var(--button-hover-text-color);
+}
+
+input:valid {
+    background-color: palegreen;
+}
+        
+input:invalid {
+    background-color: lightpink;
+}

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulaire</title>
+    <link rel="stylesheet" href="asset/style/style.css">
+</head>
+<body>
+    <div class="dark-mode-toggle">
+        <span>dark</span>
+        <input type="checkbox" id="dark-mode-toggle-btn">
+        <label for="dark-mode-toggle-btn"></label>
+    </div>
+    <h1>Formulaire avec l'intégration js</h1>
+        <div class="container">
+            <h2>Formulaire d'inscription</h2>
+            <form id="registrationForm">
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="firstName">Prénom</label>
+                  <input type="text" id="firstName" name="firstName" required autocapitalize="words" placeholder="Antoine">
+                </div>
+                <div class="form-group">
+                  <label for="lastName">Nom</label>
+                  <input type="text" id="lastName" name="lastName" required>
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="age">Age</label>
+                  <input type="number" id="age" name="age" required>
+                </div>
+                <div class="form-group">
+                  <label for="gender">Sexe</label>
+                  <select id="gender" name="gender" required>
+                    <option value="" selected disabled>Choisissez</option>
+                    <option value="male">Homme</option>
+                    <option value="female">Femme</option>
+                    <option value="other">Autre</option>
+                  </select>
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="email">Adresse Mail</label>
+                  <input type="email" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                  <label for="postalAddress">Adresse postale</label>
+                  <input type="text" id="postalAddress" name="postalAddress" required>
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="postalCode">Code postal</label>
+                  <input type="text" id="postalCode" name="postalCode" required>
+                </div>
+                <div class="form-group">
+                  <label for="city">Ville</label>
+                  <input type="text" id="city" name="city" required>
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="occupation">Métier exercé</label>
+                  <input type="text" id="occupation" name="occupation" required>
+                </div>
+                <div class="form-group">
+                    <label for="nationality">Nationalité</label>
+                    <input list="nationalities" id="nationality" name="nationality" required>
+                    <datalist id="nationalities">
+                    </datalist>
+                </div>
+                
+              </div>
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="birthDate">Date de naissance</label>
+                  <input type="date" id="birthDate" name="birthDate" required>
+                </div>
+                <div class="form-group">
+                    <label for="birthCountry">Pays de naissance</label>
+                    <input list="countries" id="birthCountry" name="birthCountry" required>
+                    <datalist id="countries"></datalist>
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="socialSecurityNumber">Numéro de sécurité sociale</label>
+                  <input type="text" id="socialSecurityNumber" name="socialSecurityNumber" required>
+                </div>
+                <div class="form-group">
+                  <label for="passportNumber">Numéro du passeport</label>
+                  <input type="text" id="passportNumber" name="passportNumber" required>
+                </div>
+              </div>
+              <div class="form-row">
+                <div class="form-group">
+                  <label for="passportIssueDate">Date de délivrance du passeport</label>
+                  <input type="date" id="passportIssueDate" name="passportIssueDate" required>
+                </div>
+                <div class="form-group">
+                  <label for="passportExpiryDate">Date de validité du passeport</label>
+                  <input type="date" id="passportExpiryDate" name="passportExpiryDate" required>
+                </div>
+              </div>
+              <div class="form-group">
+                <button type="submit">Soumettre</button>
+              </div>
+            </form>
+          </div>
+
+    <script src="asset/script/darkmode.js"></script>
+    <script src="asset/script/country.js"></script>
+    <script src="asset/script/validateForm.js"></script>
+
+
+</body>
+</html>

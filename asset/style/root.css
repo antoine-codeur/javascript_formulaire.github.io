@@ -1,0 +1,49 @@
+:root {
+    /* Couleurs du mode clair */
+    --background-color: #f8f9fa; 
+    --text-color: #333;
+    --primary-color: #007bff;
+    --secondary-color: #555;
+    --accent-color: #ffc107;
+    --shadow-color: rgba(0, 0, 0, 0.3); 
+
+            /* Ajout de la police */
+            --font-family: 'Pacifico', cursive;
+            --body-font-family: 'Montserrat', sans-serif;
+            --heading-font-family: 'Open Sans', sans-serif;
+
+
+
+        /* Boutons */
+        --button-background: var(--primary-color);
+        --button-text-color: var(--background-color);
+        --button-hover-background: var(--accent-color);
+        --button-hover-text-color: var(--background-color);
+    
+
+    }
+/* Styles pour le mode sombre */
+.dark-mode {
+    --background-color: #212529;
+    --text-color: #f8f9fa;
+    --primary-color: #17a2b8;
+    --secondary-color: #adb5bd;
+    --accent-color: #28a745;
+    --shadow-color: rgba(255, 255, 255, 0.3); 
+    
+            /* Boutons */
+            --button-background: var(--primary-color);
+            --button-text-color: var(--background-color);
+            --button-hover-background: var(--accent-color);
+            --button-hover-text-color: var(--background-color);
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    font-family: cursive;
+    font-family: var(--font-family);
+}
